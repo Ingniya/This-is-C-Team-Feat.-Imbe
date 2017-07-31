@@ -35,4 +35,3 @@ null::shutdown:/bin/umount -a -r
 null::shutdown:/sbin/swapoff -a
 
 #Launch the App via Script
-null::respawn:/etc/init.d/sstart
